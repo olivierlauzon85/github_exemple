@@ -1,0 +1,6 @@
+c:\users\201432418\documents\visual studio 2013\Projects\githubc\githubc\bin\Debug\githubc.exe.config
+c:\users\201432418\documents\visual studio 2013\Projects\githubc\githubc\obj\Debug\githubc.csprojResolveAssemblyReference.cache
+c:\users\201432418\documents\visual studio 2013\Projects\githubc\githubc\bin\Debug\githubc.exe
+c:\users\201432418\documents\visual studio 2013\Projects\githubc\githubc\bin\Debug\githubc.pdb
+c:\users\201432418\documents\visual studio 2013\Projects\githubc\githubc\obj\Debug\githubc.exe
+c:\users\201432418\documents\visual studio 2013\Projects\githubc\githubc\obj\Debug\githubc.pdb
